@@ -1,5 +1,5 @@
 # RainHCNet
-RainHCNet is a PyTorch-based spatiotemporal sequence precipitation nowcasting model. For more information, please refer to RainHCNet
+RainHCNet is a PyTorch-based spatiotemporal sequence precipitation nowcasting model. For more information, please refer to [RainHCNet](https://ieeexplore.ieee.org/document/10918910).
 
 # File Structure
 **train_seq.npy & test_seq.npy**: Files defining the data sequence order for training and testing on KNMI datasets.
@@ -17,11 +17,11 @@ RainHCNet is a PyTorch-based spatiotemporal sequence precipitation nowcasting mo
 # Dataset Requirements
 To use this model, you need to apply for access to the following datasets:
 
-KNMI Dataset: Apply through the official KNMI portal at KNMI.
+KNMI Dataset: Apply through the official KNMI portal at [KNMI](https://github.com/HansBambel/SmaAt-UNet).
 
-SEVIR Dataset: Apply through the official SEVIR (Storm Event Imagery) dataset portal at SEVIR.
+SEVIR Dataset: Apply through the official SEVIR (Storm Event Imagery) dataset portal at [SEVIR](https://registry.opendata.aws/sevir/).
 
-Shanghai Dataset: Apply through the official Shanghai meteorological data portal at Shanghai.
+Shanghai Dataset: Apply through the official Shanghai meteorological data portal at [Shanghai](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2GKMQJ).
 
 # Train
 Once you have obtained the required datasets, you can either load pre-trained models or train the model from scratch: python RainHCNet-main/RainHCNet/train.py
