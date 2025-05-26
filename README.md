@@ -1,7 +1,7 @@
 # RainHCNet
 RainHCNet is a PyTorch-based spatiotemporal sequence precipitation nowcasting model. For more information, please refer to RainHCNet
 
-File Structure
+# File Structure
 **train_seq.npy & test_seq.npy**: Files defining the data sequence order for training and testing on KNMI datasets.
 
 **tool.py**: Contains essential preprocessing functions including data transformation, evaluation metrics, and visualization utilities.
