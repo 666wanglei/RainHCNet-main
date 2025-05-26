@@ -36,13 +36,14 @@ Python 3.6+, Pytorch 1.0 and Ubuntu.
 If you use this code in your research, please cite our paper:
  ```
 @ARTICLE{10918910,
-author={Wang, Lei and Wang, Zheng and Hu, Wenjun and Bai, Cong},
-journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
-title={RainHCNet: Hybrid High-Low Frequency and Cross-Scale Network for Precipitation Nowcasting},
-year={2025},
-volume={18},
-number={},
-pages={8923-8937},
-keywords={Rain;Computational modeling;Radar;Forecasting;Predictive models;Meteorological radar;Feature extraction;Accuracy;Radar tracking;Long short term memory;High-intensity rainfall;low-frequency information;multi-scale features learning;precipitation nowcasting},
-doi={10.1109/JSTARS.2025.3549678}}
+  author={Wang, Lei and Wang, Zheng and Hu, Wenjun and Bai, Cong},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={RainHCNet: Hybrid High-Low Frequency and Cross-Scale Network for Precipitation Nowcasting}, 
+  year={2025},
+  volume={18},
+  number={},
+  pages={8923-8937},
+  keywords={Rain;Computational modeling;Radar;Forecasting;Predictive models;Meteorological radar;Feature extraction;Accuracy;Radar tracking;Long short term memory;High-intensity rainfall;low-frequency information;multi-scale features learning;precipitation nowcasting},
+  doi={10.1109/JSTARS.2025.3549678}}
+
  ```
